@@ -13,9 +13,11 @@ A calculadora possui métodos para:
 - 🔢 Potenciação
 
 ## 📂 Estrutura do Projeto
+'''
 calculadora-python/
-'''│── calculadora.py # Código principal da calculadora
-'''│── README.md # Documentação do projeto
+│── calculadora.py # Código principal da calculadora
+│── README.md # Documentação do projeto
+'''
 
 ## ▶️ Como Executar
 
