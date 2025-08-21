@@ -12,6 +12,11 @@ A calculadora possui métodos para:
 - 📊 Porcentagem
 - 🔢 Potenciação
 
+## 🛠️ Pré-requisitos
+
+- Python 3.x
+- pip (gerenciador de pacotes do Python)
+
 ## 📂 Estrutura do Projeto
 ```
 calculadora-python/
