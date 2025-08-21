@@ -33,21 +33,3 @@ calculadora-python/
       ```bash
       python calculadora.py
       
-from calculadora import Calculadora
-
-calc = Calculadora()
-
-print(calc.somar(10, 5))       # 15
-print(calc.subtrair(10, 5))    # 5
-print(calc.multiplicar(10, 5)) # 50
-print(calc.dividir(10, 5))     # 2.0
-print(calc.porcentagem(50, 10))# 5.0
-print(calc.potencia(2, 3))     # 8
-
-Tecnologias Utilizadas
-
-Python 3.x
-
-✨ Autor
-
-Projeto desenvolvido por Julliely
