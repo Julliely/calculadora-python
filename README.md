@@ -23,15 +23,15 @@ calculadora-python/
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Julliely/calculadora-python.git
-   ```bash
+   
 2. Acesse a pasta do projeto:
       ```bash
       cd calculadora-python
-      ```bash
+      
 3. Execute o arquivo principal:
       ```bash
       python calculadora.py
-      ```bash
+      
 from calculadora import Calculadora
 
 calc = Calculadora()
